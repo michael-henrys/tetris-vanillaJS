@@ -6,6 +6,14 @@ body {
   font-style: normal;
 }
 
+header {
+  margin: 70px;
+}
+
+footer {
+  margin: 70px;
+}
+
 td {
   background-color: lightgrey;
   width: 30px;
