@@ -7,11 +7,11 @@ body {
 }
 
 header {
-  margin: 70px;
+  margin: 50px;
 }
 
 footer {
-  margin: 70px;
+  margin: 50px;
 }
 
 td {
@@ -20,6 +20,7 @@ td {
   height: 30px;
   border-radius: 2px;
 }
+
 
 .game-area{
   width: 300px;
