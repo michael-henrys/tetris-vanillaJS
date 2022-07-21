@@ -1,0 +1,21 @@
+body {
+  font-family: monospace;
+  color: white;
+  text-align: center;
+  background-color: darkgrey;
+}
+
+td {
+  background-color: lightgray;
+  width: 30px;
+  height: 30px;
+  border-radius: 2px;
+}
+
+.game-area{
+  width: 300px;
+  height: auto;
+  margin-right: center;
+  margin-left: center;
+  margin: 0 auto;
+}
