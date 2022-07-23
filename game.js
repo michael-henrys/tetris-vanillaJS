@@ -1,6 +1,6 @@
 let board = []
 let currentPiece
-speed = 400
+speed = 700
 
 //set up keyboard event listener 
 document.addEventListener('keydown', (event) => {
@@ -43,6 +43,7 @@ function main() {
     drawBoard()
   }, speed);
 }
+
 
 //creates a random new piece
 function createPiece() {
